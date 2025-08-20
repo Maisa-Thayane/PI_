@@ -1,4 +1,4 @@
-# Projeto Integrado - DPL-CGR
+# Projeto Integrado - DPL e CGR
 
 ## Descrição
 
